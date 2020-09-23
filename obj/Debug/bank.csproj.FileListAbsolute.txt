@@ -1,0 +1,30 @@
+E:\cs\level3\New folder\bank\bank\bin\Debug\bank.exe.config
+E:\cs\level3\New folder\bank\bank\bin\Debug\bank.exe
+E:\cs\level3\New folder\bank\bank\bin\Debug\bank.pdb
+E:\cs\level3\New folder\bank\bank\obj\Debug\bank.csprojResolveAssemblyReference.cache
+E:\cs\level3\New folder\bank\bank\obj\Debug\bank.Form1.resources
+E:\cs\level3\New folder\bank\bank\obj\Debug\bank.Properties.Resources.resources
+E:\cs\level3\New folder\bank\bank\obj\Debug\bank.csproj.GenerateResource.Cache
+E:\cs\level3\New folder\bank\bank\obj\Debug\bank.exe
+E:\cs\level3\New folder\bank\bank\obj\Debug\bank.pdb
+E:\cs\level3\New folder\bank\bank\obj\Debug\bank.branch.resources
+E:\cs\level3\New folder\bank\bank\obj\Debug\bank.employee.resources
+E:\cs\level3\New folder\bank\bank\obj\Debug\bank.account.resources
+E:\cs\level3\New folder\bank\bank\obj\Debug\bank.customer.resources
+E:\cs\level3\New folder\bank\bank\obj\Debug\bank.credit_card.resources
+E:\cs\level3\New folder\bank\bank\obj\Debug\bank.loan.resources
+C:\Users\CompuStore\Desktop\c#\bank\bank\bin\Debug\bank.exe.config
+C:\Users\CompuStore\Desktop\c#\bank\bank\obj\Debug\bank.exe
+C:\Users\CompuStore\Desktop\c#\bank\bank\obj\Debug\bank.pdb
+C:\Users\CompuStore\Desktop\c#\bank\bank\bin\Debug\bank.exe
+C:\Users\CompuStore\Desktop\c#\bank\bank\bin\Debug\bank.pdb
+C:\Users\CompuStore\Desktop\c#\bank\bank\obj\Debug\bank.csprojResolveAssemblyReference.cache
+C:\Users\CompuStore\Desktop\c#\bank\bank\obj\Debug\bank.credit_card.resources
+C:\Users\CompuStore\Desktop\c#\bank\bank\obj\Debug\bank.Form1.resources
+C:\Users\CompuStore\Desktop\c#\bank\bank\obj\Debug\bank.branch.resources
+C:\Users\CompuStore\Desktop\c#\bank\bank\obj\Debug\bank.employee.resources
+C:\Users\CompuStore\Desktop\c#\bank\bank\obj\Debug\bank.account.resources
+C:\Users\CompuStore\Desktop\c#\bank\bank\obj\Debug\bank.customer.resources
+C:\Users\CompuStore\Desktop\c#\bank\bank\obj\Debug\bank.loan.resources
+C:\Users\CompuStore\Desktop\c#\bank\bank\obj\Debug\bank.Properties.Resources.resources
+C:\Users\CompuStore\Desktop\c#\bank\bank\obj\Debug\bank.csproj.GenerateResource.Cache
